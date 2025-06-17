@@ -1,4 +1,3 @@
-```markdown
 # RAG Chatbot API with Django & Ollama
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
@@ -160,16 +159,7 @@ For better performance:
 4. Use smaller embedding models for faster inference
 
 ## 📜 License
-MIT License - See [LICENSE](LICENSE) for details
+GPL-3.0 License - See [LICENSE](LICENSE) for details
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
-
----
-
-💡 **Tip**: For production deployment, consider using:
-- Gunicorn + Nginx
-- Docker containers
-- Redis caching
-- Proper secret management
-```
